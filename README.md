@@ -10,7 +10,7 @@ to-do app:- https://todo-app-aec57.web.app/
 * [Setup](#setup)
 
 ## general-info
-I use react 16.13.1 and Firebase for realtime database to create this awesome looking to-do list.
+I use react 16.13.1, Firebase for realtime database and material ui for styles to create this awesome looking to-do list.
 
 ## dependencies
 You need some tools and configurations to run this web-app
