@@ -27,7 +27,7 @@ $ git clone https://github.com/Rish7223/todo-app.git
 ```
 $ npm install
 ```
-* After installation you have config the project with firebase:
+* After installation you have to config the project with firebase:
 ```
 copy and paste the firebase config code into $ firebase_init.js file.
 ```
@@ -35,4 +35,4 @@ copy and paste the firebase config code into $ firebase_init.js file.
 ```
 $ npm start
 ```
-* yuhhu.. here is your to-do app.Now edit the styles, Show same creativity. 
+* yuhhu.. here is your to-do app. Now edit the styles, Show same creativity. 
