@@ -1,9 +1,6 @@
 # todo-app
 A simple and interactive to-do list build using React and Firebase.
 
-## preview
-to-do app:- https://todo-app-aec57.web.app/
-
 ## Table of contents
 * [General info](#general-info)
 * [Dependencies](#dependencies)
